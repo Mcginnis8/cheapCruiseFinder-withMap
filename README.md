@@ -2,10 +2,10 @@
 Python app that displays cheapest cruises by day, maps their routes, and provides information on them including links to buy.
 
 # Dark UI with OpenStreetMap
-![Screenshot1](Screenshot_1.png)
+![Screenshot2](Screenshot_2.png)
 
 # Light UI with Google Maps
-![Screenshot2](Screenshot_2.png)
+![Screenshot1](Screenshot_1.png)
 
 # Dark UI with Google Satellite
 ![Screenshot3](Screenshot_3.png)
